@@ -10,3 +10,6 @@ dependencies:
 - name: zeebe-operator
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.34
+- name: zeebe-operator-http
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
