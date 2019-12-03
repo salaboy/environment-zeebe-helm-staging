@@ -30,3 +30,6 @@ jenkins:
         TILLER_NAMESPACE: kube-system
   enabled: false
 prow: {}
+zeebe-operator:
+  tekton:
+    enabled: false
