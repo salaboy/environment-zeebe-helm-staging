@@ -31,5 +31,8 @@ jenkins:
   enabled: false
 prow: {}
 zeebe-operator:
+  env: 
+  - name: "PIPELINES_NAMESPACE"
+    value: "jx"
   tekton:
     enabled: false
