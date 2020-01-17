@@ -12,7 +12,7 @@ dependencies:
   version: 1.0.18
 - name: zeebe-3675-reproducer
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: zeebe-http-cloudevents-worker
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
