@@ -10,4 +10,6 @@ dependencies:
 - name: zeebe-3675-reproducer
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
-
+- name: zeebe-operator
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.69
