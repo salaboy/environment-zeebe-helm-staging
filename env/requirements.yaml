@@ -7,18 +7,7 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: vertx-cloud-events
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.18
 - name: zeebe-3675-reproducer
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
-- name: zeebe-http-cloudevents-worker
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.8
-- name: zeebe-operator
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.68
-- name: zeebe-operator-http
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+
