@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.4
 - name: zeebe-http-cloudevents-worker
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.9
+  version: 0.0.10
 - name: zeebe-operator
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.69
