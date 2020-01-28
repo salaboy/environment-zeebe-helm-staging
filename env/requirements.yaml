@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: spring-boot-starter-cloudevents
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
+  version: 0.0.5
 - name: zeebe-3675-reproducer
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
