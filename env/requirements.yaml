@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: spring-boot-starter-cloudevents
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.16
+  version: 0.0.17
 - name: spring-boot-starter-cloudevents2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
