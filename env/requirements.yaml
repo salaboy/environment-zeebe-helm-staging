@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.10
 - name: zeebe-knative-worker
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: zeebe-operator
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.72
