@@ -27,7 +27,7 @@ dependencies:
   version: 0.0.4
 - name: zeebe-cloud-events-router
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
+  version: 0.0.4
 - name: zeebe-http-cloudevents-worker
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.10
