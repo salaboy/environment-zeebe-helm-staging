@@ -16,6 +16,9 @@ dependencies:
 - name: spring-boot-starter-cloudevents2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
+- name: test-helm-pipeline
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: tickets-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
