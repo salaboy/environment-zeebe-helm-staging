@@ -7,36 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: payments-service
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
-- name: spring-boot-starter-cloudevents
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.19
-- name: spring-boot-starter-cloudevents2
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
 - name: test-helm-pipeline
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: tickets-service
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
-- name: vertx-cloud-events
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.19
-- name: zeebe-3675-reproducer
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
-- name: zeebe-cloud-events-router
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
-- name: zeebe-http-cloudevents-worker
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.10
 - name: zeebe-k8s-tests
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
-- name: zeebe-operator
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.73
